@@ -13,7 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hola mundo!");
             for (int i = 0; i <= 10; i++)
             {
-              dsfsdfsdfsdfsd
+                Console.WriteLine(i);
+                //Some changes 2
             }
             Console.ReadLine();//Pausa chapusera
         }
