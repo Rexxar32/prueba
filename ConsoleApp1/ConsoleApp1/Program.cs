@@ -11,6 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hola mundo!");
+            for (int i = 0; i <= 10; i++)
+            {
+                Console.WriteLine(i);
+            }
             Console.ReadLine();//Pausa chapusera
         }
     }
